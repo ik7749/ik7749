@@ -8,6 +8,8 @@ JavaScript, BootStrap, Git.
 
 ### Вот, что я умею
 
-https://github.com/ik7749/js-cp-diploma-edited
+https://github.com/ik7749/movie
 
-### Сертификаты Нетологии
+### Сертификат Нетологии
+
+https://github.com/ik7749/ik7749/blob/main/NetolJScertificate.pdf
