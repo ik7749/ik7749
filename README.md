@@ -4,7 +4,7 @@
 
 ### Мой стек
 
-JavaScript, BootStrap, Git.
+HTML, CSS, JavaScript, Git.
 
 ### Вот, что я умею
 
